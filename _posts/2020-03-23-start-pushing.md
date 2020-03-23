@@ -4,4 +4,8 @@ title: Start pushing!
 image: /img/avatar-icon.png
 ---
 
-This is my first post, how exciting!
+| Language        | Code          |
+| --------------- |:-------------:|
+| Python        | right-aligned |
+| GO        | centered      |
+| C   | are neat      |
