@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First post!
+title: Start pushing!
 image: /img/avatar-icon.png
 ---
 
