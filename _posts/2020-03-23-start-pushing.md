@@ -4,8 +4,9 @@ title: Start pushing!
 image: /img/avatar-icon.png
 ---
 
-| Language        | Code          |
-| --------------- |:-------------:|
-| Python        | right-aligned |
-| GO        | centered      |
-| C   | are neat      |
+```python
+quarantine = True
+while quarantine:
+	print("stay at home please")
+```
+
